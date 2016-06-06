@@ -543,6 +543,7 @@ h3.title span:after{
   text-align: center;
   text-decoration: none;
 }
+
 .social-networks a:before {
   content: "";
   position: absolute;
@@ -602,7 +603,7 @@ h3.title span:after{
 	background:#43C8FA;
 }
 .social-networks .icon-twitter:after {
-	background:url(../images/img-sp.png) no-repeat 1px -33px;
+	background:url(../images/linkedin.png) ;
     display: block;
     height: 100%;
     content: '';
